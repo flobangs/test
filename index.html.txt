@@ -1,4 +1,2 @@
-d<html>
-	<body>Git 수업페이지 입니다.</body>
-	<body>GIT</body>
+<html>
 </html>
