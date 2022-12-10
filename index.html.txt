@@ -1,4 +1,4 @@
-<html> master 2
+<html> master 3
 	<body>Git 수업페이지 입니다.</body>
 	<body>GIT</body>
 	<li></li>
