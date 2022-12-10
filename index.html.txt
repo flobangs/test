@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <html> master
 	<body>Git 수업페이지 입니다.</body>
 	<body>GIT</body>
 	<li></li>
 	<header></header>
+=======
+<html> test
+	<head>GIT</head>
+
+>>>>>>> test
 </html>
